@@ -1,7 +1,5 @@
-version: 2026.232.0520
 plugin-addr:
     candy:
-        version: 2026.176.1800
         description: |-
             The `addr` check verb relocated into a candy: an outside-in TCP
             reachability probe of a host:port (in-container `nc` under charly check
